@@ -17,6 +17,8 @@ The dataset encompasses various factors including:
 - **Financial Metrics:** Operating Profit, Operating Margin.
 - **Sales Method:** Information on the method of sales (In-store, outlet, online).
 
+Dashboard
+![dashboard](https://github.com/user-attachments/assets/1bdb35c0-29d1-4fff-b0a1-bb2371a705c3)
 
 
 ## Data Analysis Performed
