@@ -77,7 +77,7 @@ This project is targeted towards:
 
 You can interact with the Tableau dashboard using the following link:
 
-[Tableau Dashboard Link](https://public.tableau.com/views/OverviewofAdidasSales/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
+(https://public.tableau.com/views/OverviewofAdidasSales/Dashboard1?:language=en-US&publish=yes&:sid=&:display_count=n&:origin=viz_share_link)
 
 ## Takeaways
 
@@ -86,13 +86,5 @@ You can interact with the Tableau dashboard using the following link:
 - **Price Sensitivity:** Optimize pricing strategies to maintain competitiveness and maximize revenue.
 - **Product Profitability:** Align product offerings with regional preferences to drive profitability.
 
-## Contact
 
-For questions or feedback, please contact:
-
-- **Name:** Harsha Peteti
-- **Email:** [Your Email Address]
-- **GitHub:** [Your GitHub Profile](https://github.com/hpeteti)
-
-Thank you for your interest in this project!
 
